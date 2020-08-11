@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Vendas
 {
@@ -8,6 +9,9 @@ namespace Vendas
 		{
 
 			int escolha;
+			Cliente c = new Cliente();
+			List<Cliente> clientes = new List<Cliente>();
+
 			do
 			{
 				// Opcoes do menu
@@ -25,9 +29,7 @@ namespace Vendas
 
 				// recebe a opcao escolhida
 				escolha = Convert.ToInt32(Console.ReadLine());
-				Cliente c = new Cliente();
-				//criar lista 
-
+			
 				switch (escolha)
 				{
 					
@@ -39,12 +41,19 @@ namespace Vendas
 						Console.WriteLine("Digite o Cpf:");
 						c.Cpf = Console.ReadLine();
 
+						clientes.Add(c);
+
 						//mensagem de sucesso
-						Console.WriteLine(c.Nome);
-						Console.WriteLine(c.Cpf);
+						Console.WriteLine($"Cliente {c.Nome} de CPF: {c.Cpf} adicionado com sucesso.");
+						
 						break;
 					case 2:
 						// laco mostra todos os clientes
+						foreach (Cliente cli in clientes )
+                        {
+							Console.WriteLine($"Cliente {c.Nome} de CPF: {c.Cpf}\n");
+						}
+
 					break;
 
 					case 3:
