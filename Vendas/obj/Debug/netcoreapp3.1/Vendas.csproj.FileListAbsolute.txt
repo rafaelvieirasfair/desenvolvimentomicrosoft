@@ -1,0 +1,13 @@
+G:\Meu Drive\Faculdade\C#\Vendas\Vendas\bin\Debug\netcoreapp3.1\Vendas.exe
+G:\Meu Drive\Faculdade\C#\Vendas\Vendas\bin\Debug\netcoreapp3.1\Vendas.deps.json
+G:\Meu Drive\Faculdade\C#\Vendas\Vendas\bin\Debug\netcoreapp3.1\Vendas.runtimeconfig.json
+G:\Meu Drive\Faculdade\C#\Vendas\Vendas\bin\Debug\netcoreapp3.1\Vendas.runtimeconfig.dev.json
+G:\Meu Drive\Faculdade\C#\Vendas\Vendas\bin\Debug\netcoreapp3.1\Vendas.dll
+G:\Meu Drive\Faculdade\C#\Vendas\Vendas\bin\Debug\netcoreapp3.1\Vendas.pdb
+G:\Meu Drive\Faculdade\C#\Vendas\Vendas\obj\Debug\netcoreapp3.1\Vendas.csprojAssemblyReference.cache
+G:\Meu Drive\Faculdade\C#\Vendas\Vendas\obj\Debug\netcoreapp3.1\Vendas.AssemblyInfoInputs.cache
+G:\Meu Drive\Faculdade\C#\Vendas\Vendas\obj\Debug\netcoreapp3.1\Vendas.AssemblyInfo.cs
+G:\Meu Drive\Faculdade\C#\Vendas\Vendas\obj\Debug\netcoreapp3.1\Vendas.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Faculdade\C#\Vendas\Vendas\obj\Debug\netcoreapp3.1\Vendas.dll
+G:\Meu Drive\Faculdade\C#\Vendas\Vendas\obj\Debug\netcoreapp3.1\Vendas.pdb
+G:\Meu Drive\Faculdade\C#\Vendas\Vendas\obj\Debug\netcoreapp3.1\Vendas.genruntimeconfig.cache
